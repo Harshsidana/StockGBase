@@ -1,0 +1,314 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/61c3bdc247a7f51052dda0cd2a949887/databinding-adapters-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/dc62e1343c445163559c662af02bd2f4/databinding-runtime-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:1.2.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/68dae7e54ea9d0c1ecff227b8b79d35f/jetified-coil-1.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:1.2.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/f2e0077a80837e13e4851cd56c5e26ef/jetified-coil-base-1.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/07125641445fd38b316e6aa7e556a460/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/11cf60989c1a3211adc653d5308c8262/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8b8649acf1e508a21db101d09531a6fd/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c4e953f0fa20f692845879414144996a/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/7c3ad1079c48d37328c937b6f4e44d33/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/e939b9a29773b731f4c8448278db66f3/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/88092e92f4014134141991920faf860d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/78a379e142c3afa9bad4509637d9b4c2/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/927e459ef0cbeca1ae2284f8629ab426/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fedc1ff6853aa1036cd7d58eb7ab1db6/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:viewbinding:7.4.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/cccf7960ea6e84e560fb8203b0756e57/jetified-viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/202b7a63e1542fc5091f7783e99dd74a/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fd42e0715b791f3b9b88fef9222a57b7/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.31.2-alpha] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/50b7792480f757cb58884af33025abab/jetified-hilt-android-2.31.2-alpha/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/58cfad48e736a4bdd238220284f719c0/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5c156045bf846b05638c2a6e316c3200/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/53a10a1b7997077a3af3e5c7831411ac/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/31e66fedc1df70bec413e29257b5a267/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/84a511dc9729fbdeb9123e17ad458430/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/41c53dd428d05a213b0b8f5119b57df5/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/b6b79a4ab14d8e891b927aac97b502a4/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/64cf69832d6bffc4004ea50899ac1f24/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/478f18c1be7e3f7277cfa0e98efa8b77/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c59b27af37aa7d1b5b0e7ed255982745/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/906fc31e80ae38a682d9538d0c043bf6/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/4f8730d9a1de80fe652340fbfc9fcda6/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/6b99c18bd3fe31dc2126372919dcf9fc/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ed09be3a4173c669bc0c178cca68fd47/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a3b81a7b4e73a498684b8b7d36cbb7df/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/6008c98ea76a0f357db2dab65738fd0f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/9022ad0cc90edc57842130a53c500885/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/de84c3382723163184fed35b99956dc7/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/e8386a3e92218cf3a46dbe373cbf63d3/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/cf37b14523289a9b5930bc8b004e3562/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c7feb03bca0bda60ab7fb769f04d6c90/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/38df1932bc25f7aa0c18b5555fd578e0/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fc6d71aac929445b859cb2283f7948e0/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ef022775741db382e997086e64f7608a/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5336f6576fe70a3355bb9b02d82e5941/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/b9ab86a11d40311a18467b5ec893d3e0/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8747c56be325f050050e53dd7e8c0e9f/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/0bdd7158f5f44c54a223f8fc0309f66d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/31ef99234e8fe87359f1f33d3ec7cda5/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/1a9ed55682e5eb0d39556299dae0e298/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/35cdb7d0b27bcc802b62cef6192f7089/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5663f9a743f879684a8e16e4b2d88de9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a1266c1b7d6674fe8d5f6720bb8dcee5/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/2170291d4345edff01236b4998e10d9a/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/985f86d3a73a9c1ee41c1cdfc574cdaa/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/faadc33401d2190540bec2ae81f20cd7/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/4082496efd78ee7ca7ed07903a53936b/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/1b14cb47f3186e79a92fa316b7c6f8eb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/06d49a87aae6f1621a745af5f1cb0e3e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/472cb66248bcf19e2617a86b0d1ece03/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/189694411bfc592f286a99fcaf728a05/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/54fa7a488871d7fcae7b90a9aee0a9ab/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.31.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8a8c4183f1ef59c3fea2efaea4f5c318/jetified-dagger-lint-aar-2.31.2/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:3:11-36
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:70-116
+	android:versionCode
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:9:5-82
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:9:22-79
+application
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:11:5-27:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/78a379e142c3afa9bad4509637d9b4c2/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/78a379e142c3afa9bad4509637d9b4c2/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/927e459ef0cbeca1ae2284f8629ab426/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/927e459ef0cbeca1ae2284f8629ab426/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/202b7a63e1542fc5091f7783e99dd74a/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/202b7a63e1542fc5091f7783e99dd74a/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/53a10a1b7997077a3af3e5c7831411ac/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/53a10a1b7997077a3af3e5c7831411ac/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ef022775741db382e997086e64f7608a/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ef022775741db382e997086e64f7608a/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8747c56be325f050050e53dd7e8c0e9f/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8747c56be325f050050e53dd7e8c0e9f/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:19:13-56
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ef022775741db382e997086e64f7608a/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:17:13-39
+	android:label
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:15:13-45
+	android:roundIcon
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:16:13-58
+	android:icon
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:14:13-47
+	android:allowBackup
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:13:13-39
+	android:theme
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:18:13-48
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:12:13-43
+activity#com.maxi.dogapi.MainActivity
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/61c3bdc247a7f51052dda0cd2a949887/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/61c3bdc247a7f51052dda0cd2a949887/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/dc62e1343c445163559c662af02bd2f4/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/dc62e1343c445163559c662af02bd2f4/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [io.coil-kt:coil:1.2.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/68dae7e54ea9d0c1ecff227b8b79d35f/jetified-coil-1.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:1.2.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/68dae7e54ea9d0c1ecff227b8b79d35f/jetified-coil-1.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.2.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/f2e0077a80837e13e4851cd56c5e26ef/jetified-coil-base-1.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:1.2.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/f2e0077a80837e13e4851cd56c5e26ef/jetified-coil-base-1.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/07125641445fd38b316e6aa7e556a460/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/07125641445fd38b316e6aa7e556a460/jetified-fragment-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/11cf60989c1a3211adc653d5308c8262/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/11cf60989c1a3211adc653d5308c8262/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8b8649acf1e508a21db101d09531a6fd/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8b8649acf1e508a21db101d09531a6fd/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c4e953f0fa20f692845879414144996a/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c4e953f0fa20f692845879414144996a/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/7c3ad1079c48d37328c937b6f4e44d33/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/7c3ad1079c48d37328c937b6f4e44d33/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/e939b9a29773b731f4c8448278db66f3/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/e939b9a29773b731f4c8448278db66f3/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/88092e92f4014134141991920faf860d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/88092e92f4014134141991920faf860d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/78a379e142c3afa9bad4509637d9b4c2/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/78a379e142c3afa9bad4509637d9b4c2/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/927e459ef0cbeca1ae2284f8629ab426/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/927e459ef0cbeca1ae2284f8629ab426/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fedc1ff6853aa1036cd7d58eb7ab1db6/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fedc1ff6853aa1036cd7d58eb7ab1db6/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.databinding:viewbinding:7.4.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/cccf7960ea6e84e560fb8203b0756e57/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.android.databinding:viewbinding:7.4.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/cccf7960ea6e84e560fb8203b0756e57/jetified-viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/202b7a63e1542fc5091f7783e99dd74a/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/202b7a63e1542fc5091f7783e99dd74a/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fd42e0715b791f3b9b88fef9222a57b7/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fd42e0715b791f3b9b88fef9222a57b7/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.31.2-alpha] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/50b7792480f757cb58884af33025abab/jetified-hilt-android-2.31.2-alpha/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.31.2-alpha] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/50b7792480f757cb58884af33025abab/jetified-hilt-android-2.31.2-alpha/AndroidManifest.xml:18:3-42
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/58cfad48e736a4bdd238220284f719c0/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/58cfad48e736a4bdd238220284f719c0/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5c156045bf846b05638c2a6e316c3200/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5c156045bf846b05638c2a6e316c3200/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/53a10a1b7997077a3af3e5c7831411ac/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/53a10a1b7997077a3af3e5c7831411ac/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/31e66fedc1df70bec413e29257b5a267/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/31e66fedc1df70bec413e29257b5a267/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/84a511dc9729fbdeb9123e17ad458430/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/84a511dc9729fbdeb9123e17ad458430/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/41c53dd428d05a213b0b8f5119b57df5/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/41c53dd428d05a213b0b8f5119b57df5/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/b6b79a4ab14d8e891b927aac97b502a4/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/b6b79a4ab14d8e891b927aac97b502a4/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/64cf69832d6bffc4004ea50899ac1f24/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/64cf69832d6bffc4004ea50899ac1f24/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/478f18c1be7e3f7277cfa0e98efa8b77/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/478f18c1be7e3f7277cfa0e98efa8b77/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c59b27af37aa7d1b5b0e7ed255982745/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c59b27af37aa7d1b5b0e7ed255982745/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/906fc31e80ae38a682d9538d0c043bf6/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/906fc31e80ae38a682d9538d0c043bf6/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/4f8730d9a1de80fe652340fbfc9fcda6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/4f8730d9a1de80fe652340fbfc9fcda6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/6b99c18bd3fe31dc2126372919dcf9fc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/6b99c18bd3fe31dc2126372919dcf9fc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ed09be3a4173c669bc0c178cca68fd47/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ed09be3a4173c669bc0c178cca68fd47/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a3b81a7b4e73a498684b8b7d36cbb7df/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a3b81a7b4e73a498684b8b7d36cbb7df/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/6008c98ea76a0f357db2dab65738fd0f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/6008c98ea76a0f357db2dab65738fd0f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/9022ad0cc90edc57842130a53c500885/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/9022ad0cc90edc57842130a53c500885/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/de84c3382723163184fed35b99956dc7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/de84c3382723163184fed35b99956dc7/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/e8386a3e92218cf3a46dbe373cbf63d3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/e8386a3e92218cf3a46dbe373cbf63d3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/cf37b14523289a9b5930bc8b004e3562/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/cf37b14523289a9b5930bc8b004e3562/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c7feb03bca0bda60ab7fb769f04d6c90/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/c7feb03bca0bda60ab7fb769f04d6c90/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/38df1932bc25f7aa0c18b5555fd578e0/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/38df1932bc25f7aa0c18b5555fd578e0/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fc6d71aac929445b859cb2283f7948e0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/fc6d71aac929445b859cb2283f7948e0/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ef022775741db382e997086e64f7608a/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/ef022775741db382e997086e64f7608a/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5336f6576fe70a3355bb9b02d82e5941/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5336f6576fe70a3355bb9b02d82e5941/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/b9ab86a11d40311a18467b5ec893d3e0/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/b9ab86a11d40311a18467b5ec893d3e0/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8747c56be325f050050e53dd7e8c0e9f/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8747c56be325f050050e53dd7e8c0e9f/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/0bdd7158f5f44c54a223f8fc0309f66d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/0bdd7158f5f44c54a223f8fc0309f66d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/31ef99234e8fe87359f1f33d3ec7cda5/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/31ef99234e8fe87359f1f33d3ec7cda5/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/1a9ed55682e5eb0d39556299dae0e298/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/1a9ed55682e5eb0d39556299dae0e298/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/35cdb7d0b27bcc802b62cef6192f7089/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/35cdb7d0b27bcc802b62cef6192f7089/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5663f9a743f879684a8e16e4b2d88de9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/5663f9a743f879684a8e16e4b2d88de9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a1266c1b7d6674fe8d5f6720bb8dcee5/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a1266c1b7d6674fe8d5f6720bb8dcee5/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/2170291d4345edff01236b4998e10d9a/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/2170291d4345edff01236b4998e10d9a/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/985f86d3a73a9c1ee41c1cdfc574cdaa/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/985f86d3a73a9c1ee41c1cdfc574cdaa/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/faadc33401d2190540bec2ae81f20cd7/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/faadc33401d2190540bec2ae81f20cd7/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/4082496efd78ee7ca7ed07903a53936b/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/4082496efd78ee7ca7ed07903a53936b/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/1b14cb47f3186e79a92fa316b7c6f8eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/1b14cb47f3186e79a92fa316b7c6f8eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/06d49a87aae6f1621a745af5f1cb0e3e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/06d49a87aae6f1621a745af5f1cb0e3e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/472cb66248bcf19e2617a86b0d1ece03/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/472cb66248bcf19e2617a86b0d1ece03/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/189694411bfc592f286a99fcaf728a05/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/189694411bfc592f286a99fcaf728a05/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/54fa7a488871d7fcae7b90a9aee0a9ab/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/54fa7a488871d7fcae7b90a9aee0a9ab/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.31.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8a8c4183f1ef59c3fea2efaea4f5c318/jetified-dagger-lint-aar-2.31.2/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.31.2] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/8a8c4183f1ef59c3fea2efaea4f5c318/jetified-dagger-lint-aar-2.31.2/AndroidManifest.xml:18:3-42
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/bdbfa79e2b1d979bf99f763c3cee2fa7/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/harshsidana/.gradle/caches/transforms-2/files-2.1/a21dd5a6fbbef2fe8b453d5e625977b4/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

@@ -1,0 +1,111 @@
+com/maxi/dogapi/DogApplication_GeneratedInjector.java
+ com.maxi.dogapi.DogApplication_GeneratedInjector
+hilt_aggregated_deps/com_maxi_dogapi_MainActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_maxi_dogapi_MainActivity_GeneratedInjectorModuleDeps
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/maxi/dogapi/viewmodel/MainViewModel_Factory.java
+ com.maxi.dogapi.viewmodel.MainViewModel_Factory
+com/maxi/dogapi/data/remote/RemoteDataSource_Factory.java
+ com.maxi.dogapi.data.remote.RemoteDataSource_Factory
+com/maxi/dogapi/viewmodel/MainViewModel_HiltModules.java
+ com.maxi.dogapi.viewmodel.MainViewModel_HiltModules
+ com.maxi.dogapi.viewmodel.MainViewModel_HiltModules$BindsModule
+ com.maxi.dogapi.viewmodel.MainViewModel_HiltModules$KeyModule
+com/maxi/dogapi/data/Repository_Factory.java
+ com.maxi.dogapi.data.Repository_Factory
+hilt_aggregated_deps/com_maxi_dogapi_viewmodel_MainViewModel_HiltModules_KeyModuleModuleDeps.java
+ hilt_aggregated_deps.com_maxi_dogapi_viewmodel_MainViewModel_HiltModules_KeyModuleModuleDeps
+com/maxi/dogapi/databinding/ErrorViewBinding.java
+ com.maxi.dogapi.databinding.ErrorViewBinding
+com/maxi/dogapi/di/NetworkModule_ProvideHttpClientFactory.java
+ com.maxi.dogapi.di.NetworkModule_ProvideHttpClientFactory
+hilt_aggregated_deps/com_maxi_dogapi_di_NetworkModuleModuleDeps.java
+ hilt_aggregated_deps.com_maxi_dogapi_di_NetworkModuleModuleDeps
+com/maxi/dogapi/BR.java
+ com.maxi.dogapi.BR
+com/maxi/dogapi/databinding/ActivityMainBinding.java
+ com.maxi.dogapi.databinding.ActivityMainBinding
+com/maxi/dogapi/di/NetworkModule_ProvideConverterFactoryFactory.java
+ com.maxi.dogapi.di.NetworkModule_ProvideConverterFactoryFactory
+ com.maxi.dogapi.di.NetworkModule_ProvideConverterFactoryFactory$InstanceHolder
+com/maxi/dogapi/di/NetworkModule_ProvidesApiKeyInterceptorFactory.java
+ com.maxi.dogapi.di.NetworkModule_ProvidesApiKeyInterceptorFactory
+ com.maxi.dogapi.di.NetworkModule_ProvidesApiKeyInterceptorFactory$InstanceHolder
+hilt_aggregated_deps/com_maxi_dogapi_viewmodel_MainViewModel_HiltModules_BindsModuleModuleDeps.java
+ hilt_aggregated_deps.com_maxi_dogapi_viewmodel_MainViewModel_HiltModules_BindsModuleModuleDeps
+com/maxi/dogapi/DataBindingTriggerClass.java
+ com.maxi.dogapi.DataBindingTriggerClass
+com/maxi/dogapi/DataBinderMapperImpl.java
+ com.maxi.dogapi.DataBinderMapperImpl
+ com.maxi.dogapi.DataBinderMapperImpl$InnerBrLookup
+ com.maxi.dogapi.DataBinderMapperImpl$InnerLayoutIdLookup
+com/maxi/dogapi/di/NetworkModule_ProvideRetrofitFactory.java
+ com.maxi.dogapi.di.NetworkModule_ProvideRetrofitFactory
+com/maxi/dogapi/di/NetworkModule_ProvideCurrencyServiceFactory.java
+ com.maxi.dogapi.di.NetworkModule_ProvideCurrencyServiceFactory
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/maxi/dogapi/databinding/ActivityMainBindingImpl.java
+ com.maxi.dogapi.databinding.ActivityMainBindingImpl
+hilt_aggregated_deps/com_maxi_dogapi_DogApplication_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_maxi_dogapi_DogApplication_GeneratedInjectorModuleDeps
+com/maxi/dogapi/databinding/ErrorViewBindingImpl.java
+ com.maxi.dogapi.databinding.ErrorViewBindingImpl
+com/maxi/dogapi/BuildConfig.java
+ com.maxi.dogapi.BuildConfig
+com/maxi/dogapi/viewmodel/MainViewModel_HiltModules_KeyModule_ProvideFactory.java
+ com.maxi.dogapi.viewmodel.MainViewModel_HiltModules_KeyModule_ProvideFactory
+ com.maxi.dogapi.viewmodel.MainViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/maxi/dogapi/DogApplication_HiltComponents.java
+ com.maxi.dogapi.DogApplication_HiltComponents
+ com.maxi.dogapi.DogApplication_HiltComponents$ActivityC
+ com.maxi.dogapi.DogApplication_HiltComponents$ActivityC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$ActivityCBuilderModule
+ com.maxi.dogapi.DogApplication_HiltComponents$ActivityRetainedC
+ com.maxi.dogapi.DogApplication_HiltComponents$ActivityRetainedC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.maxi.dogapi.DogApplication_HiltComponents$FragmentC
+ com.maxi.dogapi.DogApplication_HiltComponents$FragmentC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$FragmentCBuilderModule
+ com.maxi.dogapi.DogApplication_HiltComponents$ServiceC
+ com.maxi.dogapi.DogApplication_HiltComponents$ServiceC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$ServiceCBuilderModule
+ com.maxi.dogapi.DogApplication_HiltComponents$SingletonC
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewC
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewCBuilderModule
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewModelC
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewModelC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewModelCBuilderModule
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewWithFragmentC
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.maxi.dogapi.DogApplication_HiltComponents$ViewWithFragmentCBuilderModule
+com/maxi/dogapi/Hilt_MainActivity.java
+ com.maxi.dogapi.Hilt_MainActivity
+com/maxi/dogapi/DaggerDogApplication_HiltComponents_SingletonC.java
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$1
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ActivityRetainedCImpl$ViewModelCImpl$SwitchingProvider
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$Builder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ServiceCBuilder
+ com.maxi.dogapi.DaggerDogApplication_HiltComponents_SingletonC$ServiceCImpl
+com/maxi/dogapi/MainActivity_GeneratedInjector.java
+ com.maxi.dogapi.MainActivity_GeneratedInjector
+com/maxi/dogapi/Hilt_DogApplication.java
+ com.maxi.dogapi.Hilt_DogApplication
+ com.maxi.dogapi.Hilt_DogApplication$1

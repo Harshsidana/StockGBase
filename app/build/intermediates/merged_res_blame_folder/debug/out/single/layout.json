@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/harshsidana/AndroidStudioProjects/DogAPI/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/error_view.xml",
+        "source": "/Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/res/layout/error_view.xml"
+    },
+    {
+        "merged": "/Users/harshsidana/AndroidStudioProjects/DogAPI/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/harshsidana/AndroidStudioProjects/DogAPI/app/src/main/res/layout/activity_main.xml"
+    }
+]
