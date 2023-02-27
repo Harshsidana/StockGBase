@@ -5,10 +5,7 @@ import android.content.Context
 import android.graphics.Bitmap
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
-import androidx.lifecycle.AndroidViewModel
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
-import androidx.lifecycle.viewModelScope
+import androidx.lifecycle.*
 import com.maxi.dogapi.data.Repository
 import com.maxi.dogapi.model.DogResponse
 import com.maxi.dogapi.utils.NetworkResult
@@ -26,13 +23,10 @@ class MainViewModel @Inject constructor
     application: Application
 ) : AndroidViewModel(application) {
 
-    private val _response: MutableLiveData<NetworkResult<DogResponse>> = MutableLiveData()
-    val response: LiveData<NetworkResult<DogResponse>> = _response
-
-    fun fetchDogResponse() = viewModelScope.launch {
-        repository.getDog().collect { values ->
-            _response.value = values
-        }
+    fun fetchDogResponse():LiveData<NetworkResult<DogResponse>> = liveData{
+        emit(NetworkResult.Loading())
+        val result=repository.getDog()
+        emit(result)
     }
 
 

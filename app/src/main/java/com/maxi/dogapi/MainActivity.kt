@@ -22,19 +22,15 @@ class MainActivity : BaseActivity<MainViewModel, ActivityMainBinding>(ActivityMa
         setContentView(binding.root)
         fetchData()
         binding.imgRefresh.setOnClickListener {
-            fetchResponse()
+            fetchData()
         }
 
     }
 
-    private fun fetchResponse() {
-        viewModel.fetchDogResponse()
-    }
 
 
     private fun fetchData() {
-        fetchResponse()
-        viewModel.response.observe(this) { response ->
+        viewModel.fetchDogResponse().observe(this) { response ->
             when (response) {
                 is NetworkResult.Success -> {
                     response.data?.let {

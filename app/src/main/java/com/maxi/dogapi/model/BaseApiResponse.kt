@@ -20,7 +20,8 @@ abstract class BaseApiResponse {
 
                 if (response.isSuccessful) {
                     NetworkResult.Success(data = response.body()!!)
-                } else {
+                }
+                else {
                     val errorResponse: SGCustomError? = convertErrorBody(response.errorBody())
                     NetworkResult.Error(
                         message = errorResponse?.failureMessage ?: "Something went wrong"

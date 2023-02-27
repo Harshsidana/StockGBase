@@ -22,11 +22,8 @@ import javax.inject.Inject
 class Repository @Inject constructor(
     private val remoteDataSource: RemoteDataSource
 ) : BaseApiResponse() {
-    suspend fun getDog(): Flow<NetworkResult<DogResponse>> {
-        return flow {
-            emit(NetworkResult.Loading())
-            emit(safeApiCall { remoteDataSource.getDog() })
-        }.flowOn(Dispatchers.IO)
+    suspend fun getDog(): NetworkResult<DogResponse> {
+      return safeApiCall { remoteDataSource.getDog() }
     }
 }
 

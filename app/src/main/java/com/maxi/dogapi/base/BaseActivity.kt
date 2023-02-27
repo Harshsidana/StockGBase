@@ -20,7 +20,6 @@ abstract class BaseActivity<VM : ViewModel, B : ViewDataBinding>(val bindingFact
         binding = bindingFactory(layoutInflater)
         setContentView(binding.root)
         binding = getViewBinding()
-        setContentView(binding.root)
     }
 
     private fun getViewModelClass(): Class<VM> {
