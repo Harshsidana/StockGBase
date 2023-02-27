@@ -20,13 +20,17 @@ import javax.inject.Inject
 class MainViewModel @Inject constructor
     (
     private val repository: Repository,
-    application: Application
-) : AndroidViewModel(application) {
+) : ViewModel() {
 
-    fun fetchDogResponse():LiveData<NetworkResult<DogResponse>> = liveData{
-        emit(NetworkResult.Loading())
-        val result=repository.getDog()
-        emit(result)
+    private val _response: MutableLiveData<NetworkResult<DogResponse>> = MutableLiveData()
+    val response: LiveData<NetworkResult<DogResponse>> = _response
+
+    fun fetchDogResponse() {
+        _response.value=NetworkResult.Loading()
+        viewModelScope.launch {
+            val result = repository.getDog()
+            _response.value=result
+        }
     }
 
 

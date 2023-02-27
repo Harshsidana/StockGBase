@@ -19,10 +19,10 @@ import javax.inject.Inject
 
 
 @ActivityRetainedScoped
-class Repository @Inject constructor(
+open class Repository @Inject constructor(
     private val remoteDataSource: RemoteDataSource
 ) : BaseApiResponse() {
-    suspend fun getDog(): NetworkResult<DogResponse> {
+    open suspend fun getDog(): NetworkResult<DogResponse> {
       return safeApiCall { remoteDataSource.getDog() }
     }
 }

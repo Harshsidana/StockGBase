@@ -13,7 +13,8 @@ import com.maxi.dogapi.viewmodel.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class MainActivity : BaseActivity<MainViewModel, ActivityMainBinding>(ActivityMainBinding::inflate) {
+class MainActivity :
+    BaseActivity<MainViewModel, ActivityMainBinding>(ActivityMainBinding::inflate) {
 
     private var imageUrl: String? = null
 
@@ -21,16 +22,20 @@ class MainActivity : BaseActivity<MainViewModel, ActivityMainBinding>(ActivityMa
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
         fetchData()
+        getData()
         binding.imgRefresh.setOnClickListener {
-            fetchData()
+            getData()
         }
 
     }
 
 
+    private fun getData() {
+        viewModel.fetchDogResponse()
+    }
 
     private fun fetchData() {
-        viewModel.fetchDogResponse().observe(this) { response ->
+        viewModel.response.observe(this) { response ->
             when (response) {
                 is NetworkResult.Success -> {
                     response.data?.let {
