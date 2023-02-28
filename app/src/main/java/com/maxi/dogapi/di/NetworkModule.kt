@@ -1,27 +1,30 @@
 package com.maxi.dogapi.di
 
-import com.maxi.dogapi.interceptor.NetworkInterceptor
 import com.maxi.dogapi.data.remote.DogService
+import com.maxi.dogapi.interceptor.NetworkInterceptor
 import com.maxi.dogapi.utils.Constants.Companion.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import okhttp3.OkHttpClient
+import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 import javax.inject.Singleton
+
 
 @Module
 @InstallIn(SingletonComponent::class)
 object NetworkModule {
     @Singleton
     @Provides
-    fun provideHttpClient(networkInterceptor: NetworkInterceptor): OkHttpClient {
+    fun provideHttpClient(networkInterceptor: NetworkInterceptor,httpLoggingInterceptor: HttpLoggingInterceptor): OkHttpClient {
         return OkHttpClient
             .Builder()
             .addInterceptor(networkInterceptor)
+            .addInterceptor(httpLoggingInterceptor)
             .readTimeout(15, TimeUnit.SECONDS)
             .connectTimeout(15, TimeUnit.SECONDS)
             .build()
@@ -54,4 +57,11 @@ object NetworkModule {
     @Provides
     fun providesApiKeyInterceptor(): NetworkInterceptor = NetworkInterceptor()
 
+    @Singleton
+    @Provides
+    fun provideLoggingInterceptor(): HttpLoggingInterceptor {
+        val interceptor = HttpLoggingInterceptor()
+        interceptor.setLevel(HttpLoggingInterceptor.Level.BODY)
+        return interceptor
+    }
 }
